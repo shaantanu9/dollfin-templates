@@ -1,0 +1,1 @@
+// Controller for Gin with MongoDB and Session

@@ -1,0 +1,1 @@
+// Model for PostgreSQL with JWT
